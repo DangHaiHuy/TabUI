@@ -49,6 +49,7 @@
   opacity: 1;
   background-color: rgba(194, 53, 100, 0.05);
   border-color: rgba(194, 53, 100, 0.1);
+  cursor: pointer;
 }
 .tab-item.active {
     opacity: 1;
